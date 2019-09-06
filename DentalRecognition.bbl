@@ -1,0 +1,40 @@
+\begin{thebibliography}{1}
+
+\bibitem{castanon2007}
+{\sc C.~Beltrán~Castañón, J.~Fraga, S.~Fernandez, A.~Gruber, and
+  L.~da~F.~Costa}, {\em Biological shape characterization for automatic image
+  recognition and diagnosis of protozoan parasites of the genus eimeria},
+  Pattern Recognition, 40 (2007), pp.~1899--1910.
+
+\bibitem{Arena2003}
+{\sc P.~Arena, A.~Basile, M.~Bucolo, and L.~Fortuna}, {\em Image processing for
+  medical diagnosis using cnn}, Nuclear Instruments and Methods in Physics
+  Research Section A: Accelerators, Spectrometers, Detectors and Associated
+  Equipment, 497 (2003), pp.~174--178.
+
+\bibitem{Comaniciu1999}
+{\sc D.~Comaniciu, P.~Meer, and D.~J.~Foran}, {\em Image-guided decision
+  support system for pathology}, Machine Vision and Applications, 11 (1999),
+  pp.~213--224.
+
+\bibitem{Ushizima2004}
+{\sc D.~Ushizima, L.~da~F.~Costa, E.~Gil~Rizzatti, and M.~Zago}, {\em A texture
+  approach to leukocyte recognition}, Real-Time Imaging, 10 (2004),
+  pp.~205--216.
+
+\bibitem{Jain2000}
+{\sc A.~K.~Jain, R.~Duin, and J.~Mao}, {\em Statistical pattern recognition: A
+  review}, IEEE Trans. Pattern Anal. Mach. Intell., 22 (2000), pp.~4--37.
+
+\bibitem{Jalba2006}
+{\sc A.~Jalba, M.~Wilkinson, and J.~Roerdink}, {\em Shape representation and
+  recognition through morphological curvature scale spaces}, IEEE transactions
+  on image processing : a publication of the IEEE Signal Processing Society, 15
+  (2006), pp.~331--41.
+
+\bibitem{Chen2019}
+{\sc H.~Chen, K.~Zhang, P.~Lyu, H.~Li, L.~Zhang, J.~Wu, and C.-H. Lee}, {\em A
+  deep learning approach to automatic teeth detection and numbering based on
+  object detection in dental periapical films}, Scientific Reports, 9 (2019).
+
+\end{thebibliography}
