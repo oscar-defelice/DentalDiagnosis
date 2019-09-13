@@ -1,0 +1,5 @@
+*.tex
+*.bbl
+*.bib
+*.bst
+Demo/ImageProcess/ImageProcess.xcodeproj/
